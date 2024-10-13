@@ -1,5 +1,3 @@
-//provider
-
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart'; // Import Provider
 import 'beverage_provider.dart'; // Import BeverageProvider

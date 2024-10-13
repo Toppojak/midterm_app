@@ -1,5 +1,3 @@
-//provider
-
 class Beverage {
   final String name;
   final String imageUrl;

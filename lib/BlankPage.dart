@@ -1,5 +1,3 @@
-//provider
-
 import 'package:flutter/material.dart';
 
 class Blankpage extends StatelessWidget {
