@@ -1,3 +1,5 @@
+//midterm_app TG Coworking Space
+
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart'; // Import Provider
 import 'beverage_details_page.dart';
