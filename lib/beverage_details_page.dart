@@ -210,7 +210,7 @@ class _BeverageDetailsPageState extends State<BeverageDetailsPage> {
                   DropdownMenuItem<String>(value: item, child: Text(item)))
               .toList(),
           onChanged: onChanged,
-          validator: (value) => value == null ? 'Please select $label' : null,
+          validator: (value) => value == null ? 'Please $label' : null,
         ),
         SizedBox(height: 16),
       ],
